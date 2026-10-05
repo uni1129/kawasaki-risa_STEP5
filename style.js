@@ -11,7 +11,7 @@ const rowCount = document.getElementById('rowCount');
 
 
 // 背景色変更ボタン
-const colors = ['lightblue','lightgreen','lightcoral',''];
+const colors = ['lightblue','lightgreen','lightcoral'];
 let colorIndex = 0;
 
 button.addEventListener('click', () => {
